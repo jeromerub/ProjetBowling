@@ -6,8 +6,7 @@ public class Bowling {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// je l'ai changé
-		// changé avec branche
+		//
 	}
 
 }
